@@ -1,0 +1,25 @@
+{
+  "name": "circleci-intg",
+  "version": "1.0.0",
+  "description": "Playing with circle CI",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imsaptarshi/circleci-intg.git"
+  },
+  "keywords": [
+    "ci"
+  ],
+  "author": "imsaptarshi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imsaptarshi/circleci-intg/issues"
+  },
+  "homepage": "https://github.com/imsaptarshi/circleci-intg#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
